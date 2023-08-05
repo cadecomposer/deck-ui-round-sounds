@@ -15,13 +15,12 @@
     "deck_ui_tile_scroll.wav",
     "pop_sound.wav",
     "ui_steam_smoother_friend_join.m4a",
-    "ui_steam_smoother_friend_online.m4a"
+    "ui_steam_smoother_friend_online.m4a",
+    "desktop_toast_default.wav",
+    "desktop_toast_short.wav",
+    "steam_at_mention.m4a",
+    "steam_chatroom_notification.m4a",
+    "ui_steam_message_old_smooth.m4a"
   ],
-  "mappings": {
-    "desktop_toast_default.wav": ["deck_ui_toast.wav"],
-    "desktop_toast_short.wav": ["deck_ui_toast.wav"],
-    "steam_at_mention.m4a": ["deck_ui_toast.wav"],
-    "steam_chatroom_notification.m4a": ["deck_ui_toast.wav"],
-    "ui_steam_message_old_smooth.m4a": ["deck_ui_toast.wav"]
-  }
+  "mappings": {}
 }
